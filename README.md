@@ -1,4 +1,4 @@
-# **Diário de Bordo de uma estudante de ADS **
+# Diário de Bordo de uma estudante de ADS  
 
 ## **O que é este repositório?**  
 Bem-vindo ao meu espaço de aprendizado e crescimento <3  
