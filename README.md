@@ -1,4 +1,4 @@
-# Diário de Bordo de uma estudante de ADS  
+# Diário de Bordo de uma estudante de ADS PT-BR 
 
 ## **O que é este repositório?**  
 Bem-vindo ao meu espaço de aprendizado e crescimento <3  
@@ -10,3 +10,18 @@ Bom, eu acredito que cada linha de código, por mais simples que ela seja, repre
 
 ## **Obrigada por ler até aqui!**  
 Sinta-se à vontade para explorar, me contatar, pedir ajuda, dar sugestões, será sempre muito bem-vindo!
+
+# ADS Student's Logbook EN-US
+
+## **What is this repository?**
+
+Welcome to my space for learning and growth <3
+I created this repository as a scrapbook or a diary of my college journey: programmer version. As I advance in my studies and complete exercises that help me consolidate what I'm learning, I'll be recording everything here!
+
+## **Why this?**
+
+Well, I believe that every line of code, no matter how simple, represents a huge step in my evolution as a developer, and also reminds me that I'm a conqueror of my own obstacles. My goal with this repository is to have a place to archive, feel a little proud of myself, review projects, and remember the path I've taken and how much I've learned throughout my journey.
+
+## **Thank you for reading this far!**
+
+Feel free to explore, contact me, ask for help, or give suggestions—it will always be very welcome!
