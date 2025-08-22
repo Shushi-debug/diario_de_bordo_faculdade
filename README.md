@@ -1,4 +1,4 @@
-# Diário de Bordo de uma estudante de ADS PT-BR 
+# Diário de Bordo de uma estudante de ADS 🌸🇧🇷
 
 ## **O que é este repositório?**  
 Bem-vindo ao meu espaço de aprendizado e crescimento <3  
@@ -11,7 +11,9 @@ Bom, eu acredito que cada linha de código, por mais simples que ela seja, repre
 ## **Obrigada por ler até aqui!**  
 Sinta-se à vontade para explorar, me contatar, pedir ajuda, dar sugestões, será sempre muito bem-vindo!
 
-# ADS Student's Logbook EN-US
+
+   
+# ADS Student's Logbook 🌸🇪🇳
 
 ## **What is this repository?**
 
