@@ -69,7 +69,7 @@ while escolha!=7:
     elif escolha==6:
         escolha_math_menu=1
         while escolha_math_menu==1:
-            print("Digite os números para radiciação:")
+            print("Digite o número para radiciação:")
             num1=int(input("Digite o número: "))
             saida=math.sqrt(num1)
             print(f"A raiz quadrada de {num1} é {saida}!")
