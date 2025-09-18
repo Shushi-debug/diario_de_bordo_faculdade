@@ -9,5 +9,11 @@ public Computador(){
     this.ano=2025;
     this.isNovo=true;
 }
+public Computador(String marca, double velocidade, int ano, boolean isNovo){
+    this.marca=marca;
+    this.velocidade=velocidade;
+    this.ano=ano;
+    this.isNovo=isNovo;
+}
 }
 
